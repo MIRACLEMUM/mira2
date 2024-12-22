@@ -1,0 +1,25 @@
+.nav{
+    padding: 2rem 0;
+}
+
+.nav--icon,
+.nav--close,
+.nav--bgoverlay{
+    display: none;
+}
+
+.nav--wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.nav--list li{
+    display: inline-block;
+    margin: o 1rem;
+}
+
+.nav--list .nav--link{
+    font-size: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    padding: 0.5rem;
+}
