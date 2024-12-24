@@ -1,3 +1,4 @@
+/**
 .nav{
     padding: 2rem 0;
 }
@@ -23,3 +24,29 @@
     
     padding: 0.5rem;
 }
+    */
+
+/*
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100px 200px 200px;
+    gap: 30pxj;
+}
+.grid-items{
+    grid-column: span 2;
+}
+
+.card{
+    background-color: brown;
+}
+
+*/
+
+.flex-container{
+    display: flex;
+}
+.
+
+
+
